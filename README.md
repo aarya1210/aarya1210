@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aarya1210
 - 👀 I’m interested in cpp and python 
-- 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on python project 
 - 📫 How to reach me aaryaingawale12@gmail.com
 
